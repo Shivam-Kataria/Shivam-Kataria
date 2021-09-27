@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shivam Kataria
+- 👀 I’m interested in Mechanical, mechatronics and computer engineering + CS
+- 🌱 I’m currently learning Solidworks, Matlab, Simulink, Data Analysis, Numerical Methods etc.
+- 💞️ I’m looking to collaborate on Anything engineering/computer related
+- 📫 To reach me, email: shivamkataria1000@gmail.com
